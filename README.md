@@ -55,10 +55,15 @@ The ATS model can then be executed using the prepared XML input files following 
 **_NOTE:_** Mesh generation and forcing processing require access to Watershed Workflows (Coon & Shuai, 2022) and associated Python libraries.
 
 ## Citation
+
 Bhanja, S. N., Coon, E. T., Lu, D., & Painter, S. L. (2023). Evaluation of distributed process-based hydrologic model performance using only a priori information to define model inputs. Journal of Hydrology, 618, 129176. https://doi.org/10.1016/j.jhydrol.2023.129176
+
 Coon, E. T., & Shuai, P. (2022). Watershed Workflow: A toolset for parameterizing data-intensive, integrated hydrologic models. Environmental Modelling & Software, 157, 105502. https://doi.org/10.1016/j.envsoft.2022.105502
+
 Hay, L. E., LaFontaine, J. H., Beusekom, A. E. V., Norton, P. A., Farmer, W. H., Regan, R. S., Markstrom, S. L., & Dickinson, J. E. (2023). Parameter estimation at the conterminous United States scale and streamflow routing enhancements for the National Hydrologic Model infrastructure application of the Precipitation-Runoff Modeling System (NHM-PRMS). In Techniques and Methods (Nos. 6-B10). U.S. Geological Survey. https://doi.org/10.3133/tm6B10
+
 Molins, S., Svyatsky, D., Xu, Z., Coon, E. T., & Moulton, J. D. (2022). A Multicomponent Reactive Transport Model for Integrated Surface-Subsurface Hydrology Problems. Water Resources Research, 58(8), e2022WR032074. https://doi.org/10.1029/2022WR032074
+
 Xu, Z., Molins, S., Özgen-Xian, I., Dwivedi, D., Svyatsky, D., Moulton, J. D., & Steefel, C. (2022). Understanding the Hydrogeochemical Response of a Mountainous Watershed Using Integrated Surface-Subsurface Flow and Reactive Transport Modeling. Water Resources Research, 58(8), e2022WR032075. https://doi.org/10.1029/2022WR032075
 
 
