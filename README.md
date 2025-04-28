@@ -1,4 +1,4 @@
-# Hydrological Modeling for Streamflow Using ATS: Performance Comparison with USGS NHM and Observed Data
+# Hydrological Modeling Using ATS: Performance Comparison with USGS NHM-PRMS and Observed Data
 This repository contains the data, model inputs, and scripts necessary to reproduce the hydrological simulations conducted with the Advanced Terrestrial Simulator (ATS) and to compare its performance against the calibrated USGS National Hydrologic Model (NHM-PRMS) and observed USGS gage data.
 
 ## Summary
@@ -6,7 +6,7 @@ This study evaluates the performance of the Advanced Terrestrial Simulator (ATS)
 
 ## Methods
 - Modeling tool
-ATS will be used due to its capability to integrate surface and subsurface hydrological processes in a physically based manner. ATS is particularly useful for catchments with complex hydrological interactions, allowing for a more detailed representation of soil moisture and groundwater-surface water interactions (Molins et al., 2022; Xu et al., 2022). The USGS NHM, which provides large-scale streamflow simulations, will be used as a benchmark for comparison. Two catchments in Northern Utah will be selected for this study due to data availability and the importance of streamflow modeling in this region for integrated water management. Climatic, topography and soil data will be used for the ATS model. NHM output data and observed values from USGS gages will be retrieved for comparison and benchmarking. 
+ATS will be used due to its capability to integrate surface and subsurface hydrological processes in a physically based manner. ATS is particularly useful for catchments with complex hydrological interactions, allowing for a more detailed representation of soil moisture and groundwater-surface water interactions (Molins et al., 2022; Xu et al., 2022). The USGS NHM-PRMS, which provides large-scale streamflow simulations, will be used as a benchmark for comparison. Two catchments in Northern Utah will be selected for this study due to data availability and the importance of streamflow modeling in this region for integrated water management. Climatic, topography and soil data will be used for the ATS model. NHM-PRMS output data (Hay et al., 2023) and observed values from USGS gages will be retrieved for comparison and benchmarking. 
 
 - Study Area
 The study area is the Flat Brook Basin, located in northern New Jersey, part of the Delaware River system, upstream of USGS gage 01440000 (FLAT BROOK NEAR FLATBROOKVILLE, NJ). The basin covers approximately 165 km², with perennial baseflow conditions supported by year-round precipitation.
